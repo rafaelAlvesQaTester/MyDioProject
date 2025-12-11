@@ -91,11 +91,19 @@ Cenário 2 — Login com Senha Incorreta
 Cadastro de Usuário
 
 • 	👤 Nome
+
 • 	✅ Válido
+
 • 	❌ Inválido (vazio)
+
 • 	📧 E-mail
+
 • 	✅ Válido
+
 • 	❌ Inválido (sem @, vazio)
+
 • 	🔒 Senha
+
 • 	✅ Válida (mínimo 6 caracteres)
+
 • 	❌ Inválida (vazia, menos de 6 caracteres)
