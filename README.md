@@ -1,5 +1,3 @@
-Claro, Marcos! Aqui está a versão do Projeto de Testes Manuais Funcionais no Mundo Ágil com emojis para deixar mais visual e envolvente:
-
 📌 Projeto de Testes Manuais Funcionais no Mundo Ágil
 📜 Descrição
 Este projeto tem como objetivo revisar conceitos úteis para testes manuais no mundo ágil, bem como compreender e praticar atividades relativas ao dia a dia de um QA, com foco em testes manuais funcionais.
